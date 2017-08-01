@@ -1,3 +1,4 @@
-# First Chapter
+### 内部管理中心
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+主要是对用户的公司信息和员工信息、权限的管理和配置，其次是微信公众号、微信企业号、微信公众号支付的配置。
+
