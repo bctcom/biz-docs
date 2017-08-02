@@ -6,9 +6,9 @@
   * [员工信息](chapter1/yuan-gong-xin-xi.md)
 * [微信管理](qia-quan-guan-li.md)
   * [微信公众号](qia-quan-guan-li/wei-xin-gong-zhong-hao.md)
-  * 微信企业号
-  * 内容管理
-  * 消息管理
+  * [微信企业号](qia-quan-guan-li/wei-xin-qi-ye-hao.md)
+  * [内容管理](qia-quan-guan-li/nei-rong-guan-li.md)
+  * [消息管理](qia-quan-guan-li/xiao-xi-guan-li.md)
   * 通知订阅
   * 微网站管理
   * 活动管理
