@@ -10,8 +10,8 @@
   * [内容管理](qia-quan-guan-li/nei-rong-guan-li.md)
   * [消息管理](qia-quan-guan-li/xiao-xi-guan-li.md)
   * [通知订阅](qia-quan-guan-li/tong-zhi-ding-yue.md)
-  * 微网站管理
-  * 活动管理
+  * [微网站管理](qia-quan-guan-li/wei-wang-zhan-guan-li.md)
+  * [活动管理](qia-quan-guan-li/huo-dong-guan-li.md)
 * 外部客户
   * [客户管理](ke-hu-guan-li.md)
   * [经销商](jing-xiao-shang.md)
