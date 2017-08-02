@@ -9,7 +9,7 @@
   * [微信企业号](qia-quan-guan-li/wei-xin-qi-ye-hao.md)
   * [内容管理](qia-quan-guan-li/nei-rong-guan-li.md)
   * [消息管理](qia-quan-guan-li/xiao-xi-guan-li.md)
-  * 通知订阅
+  * [通知订阅](qia-quan-guan-li/tong-zhi-ding-yue.md)
   * 微网站管理
   * 活动管理
 * 外部客户
