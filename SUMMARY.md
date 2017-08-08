@@ -12,7 +12,7 @@
   * [通知订阅](qia-quan-guan-li/tong-zhi-ding-yue.md)
   * [微网站管理](qia-quan-guan-li/wei-wang-zhan-guan-li.md)
   * [活动管理](qia-quan-guan-li/huo-dong-guan-li.md)
-* 外部客户
+* [外部客户](wai-bu-ke-hu.md)
   * [客户管理](ke-hu-guan-li.md)
   * [经销商](jing-xiao-shang.md)
   * [供应商](gong-ying-shang.md)
