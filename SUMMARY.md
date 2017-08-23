@@ -16,7 +16,6 @@
   * [客户管理](ke-hu-guan-li.md)
   * [经销商](jing-xiao-shang.md)
   * [供应商](gong-ying-shang.md)
-  * [生产商](sheng-chan-shang.md)
 * [卡券管理](qia-quan-guan-li.md)
 * [教育培训](jiao-yu-pei-xun.md)
 * [快递管理](kuai-di-guan-li.md)
